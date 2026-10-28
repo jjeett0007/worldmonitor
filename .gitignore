@@ -4,8 +4,6 @@ dist/
 public/blog/
 .DS_Store
 *.log
-.env
-.env.local
 .playwright-mcp/
 *-network.txt
 .vercel
@@ -69,3 +67,4 @@ tmp/
 # Local planning documents (not for public repo)
 docs/plans/
 docs/brainstorms/
+config.bat
