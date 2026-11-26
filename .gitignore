@@ -68,3 +68,4 @@ tmp/
 docs/plans/
 docs/brainstorms/
 config.bat
+.env
